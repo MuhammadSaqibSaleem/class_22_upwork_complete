@@ -1,0 +1,680 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+
+.navbar {
+    width: 1800px;
+    margin-left: 30px;
+}
+
+.link {
+    width: 1800px;
+    margin-left: 30px;
+}
+
+.connect-people{
+    position: relative;
+    margin-top: 60px;
+    
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 8px;
+    border: 1px solid gray;
+    /* background-color: lightgrey; */
+    margin-left: 190px;
+    width: 75%;
+    height: 550px;
+}
+
+.image-1{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 200px;
+    height: 500px;
+}
+
+.image-3{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: -600px;
+    width: 200px;
+    height: 500px;
+}
+
+  .heading-1{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap;  */
+    width: 400px;
+    margin-left: 400px;
+    text-align: center;
+    margin-top: 100px;
+    /* font-weight: 1000; */
+    font-size: large;
+}
+
+.para-1{
+    /* display: flex; */
+    justify-content: center;
+    flex-wrap: wrap; 
+    width: 400px;
+    margin-left: 400px;
+    text-align: center;
+    margin-top: 40px;
+    font-size: bold;
+    font-size: 2ch;
+}
+
+.heading-2{
+    position: absolute;
+    color: gray;
+    margin-top: 90px;
+    margin-left: 540px;
+    font-size: small;
+}
+
+.image-2 {
+    /* position: relative; */
+    margin-top: 120px;
+    margin-left: 10px;
+    /* padding: 10px; */
+    font-size: small;
+}
+.telent{
+    display: flex;
+    margin-left: 60px;
+    padding: 5px;
+    width: 80%;
+    
+}
+
+.card-body {
+    width: 300px;
+    height: 150px;
+    background-color: rgba(235, 241, 245, 0.301);
+    align-items: center !important;
+}
+
+.card-body:hover {
+    cursor: pointer;
+    background-color: rgb(217, 217, 222);
+}
+
+.text {
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.text1 {
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+}
+
+.text1 a {
+    color: green;
+}
+
+.enterprise {
+    margin-top: 48px;
+    margin-left: 40px;
+    border-radius: 8px;
+    background-color: #13544e;
+    padding-bottom: 5px !important;
+    width: 900px;
+    height: 600px;
+    /* background-color: red; */
+}
+
+.span1 {
+    color: #91e6b3;
+}
+
+.btn {
+    width: 150px;
+    border-radius: 8px;
+}
+
+.imagenterprise {
+    margin-top: 48px;
+    border-radius: 8px;
+    /* width: 830px;
+    height: 600px; */
+    background-color: red;
+    /* height: 100px; */
+}
+
+.hyperlink{
+    display: flex;
+    padding-left: 20px;
+    margin-left: 60px;
+    gap: 20px;
+    color: #676767;
+    /* color: green; */ 
+}
+
+.hyperlink .browse{
+    color: #108a00;
+    font-weight:600;
+    font-size: large;
+}
+
+
+.talent-1{
+    position: relative;
+    width: 1800px;
+    margin-top: 40px;
+    border-radius: 8px;
+    height: 600px;
+    overflow: hidden;
+    margin-left: 40px;
+}
+
+.talent_image{
+    position: absolute;
+    width: 100%;
+    height: 600px;
+}
+
+.overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+  color: white;
+}
+
+.talent_way{
+    position: absolute;
+    
+    width: 25%;
+    margin-top: 80px;
+    
+}
+
+.wordings{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 200px;
+    width: 30%;
+    padding: 10px;
+}
+
+.box_container1{
+    position: absolute;
+    flex-direction: column;
+    /* background-color: #108a00; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    gap: 50px;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 150px;
+    border-radius: 8px;
+    margin-left: 200px;
+    margin-top: 390px;
+    padding-left: 5px;
+    color: white;
+    box-sizing: border-box;
+}
+
+.box_container1 :hover{
+    background-color: white;
+    color: #108a00;
+
+}
+
+.box-1{
+    width: 400px;
+    height: 170px;
+    background-color: #108a00;
+    border-radius: 8px;
+}
+.heading-4{
+    font-size: 3.5ch;
+    /* width: 60%; */
+}
+
+/* talent End*/
+
+/* Business turn to Upqork - Start */
+
+.Business-1{
+    position: relative;
+    display: flex;
+    width: 1820px;
+    margin-left: 20px;
+    height: 200px;
+    margin-top: -30px;
+}
+.Business{
+    position: relative;
+    margin-top: 80px;
+    background-color: whitesmoke;
+    color: black;
+    margin-left: 20px;
+    padding-left: 30px;
+    font-size: medium;
+    width: 1200px;
+    height: 500px;
+    /* border-radius: 8px; */
+ 
+}
+
+.Business .main-heading{
+    margin-top: 45px;
+    font-size: 7=6ch;
+    width: 60%;
+    
+}
+
+.Business .quality{
+    display: flex;
+    margin-top: 20px; 
+}
+
+.para-2{
+    display: flex;
+    
+    width: 70%;
+    margin-left: 50px; 
+}
+
+.excitement{
+    position: absolute;
+    width: 30%;
+    height: 50px;
+    margin-left: 1000px;
+    padding: 20px;
+    margin-top: 65px;
+}
+
+.marketplace{
+    margin-top: 80px;
+    background: #14a800;
+    width: 650px;
+    height: 500px;
+    margin-right: 0px;
+    border-radius: 8px;
+    /* background-color: red; */
+    /* margin-left: 60px;    */
+}
+
+.marketplace .heading-3{
+    margin-top: 200px;
+    color: white;
+    width: 60%;
+    font-size: 4ch;
+    margin-left: 35px;
+}
+
+.marketplace .quality{
+    display: flex;
+    margin-top: 20px;
+    color: white;
+    margin-left: 30px;
+}
+
+.marketplace .para-2{
+    
+    display: flex;
+    font-size: 2ch;
+    color: white;
+    width: 70%;
+    margin-left: 50px; 
+}
+
+/* Business turn to Upqork - End  */
+
+/* For Talent Start */
+
+.for_talent{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 450px;
+    width: 1800px;
+    height: 600px;
+    margin-left: 40px;
+}
+
+.for_talent_image{
+    width: 1000px;
+    height: 650px;
+    /* border-radius: 8px; */
+}
+
+.find_great{
+    background-color: #086add;
+    border-radius: 8px;
+    width: 1000px;
+    height: 650px;
+}
+
+.talent_heading{
+    color: white;
+    font-size: 3ch;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.great_work{
+    color: white;
+    font-size: 9ch;
+    margin-left: 20px;
+    width: 50%;
+}
+
+.meet_client{
+    color: white;
+    /* margin-top: 20px; */
+    font-size: 3ch;
+    margin-left: 20px;
+}
+.line{
+    color: white;
+    margin-top: 150px;
+    margin-left: 20px;
+    margin-right: 20px; 
+}
+
+.find_opportunity{
+    margin-top: 30px;
+    margin-left: 20px;
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+    color: white;
+    width: 80%;
+    gap: 60px;
+}
+
+.find_button{
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 8px;
+    border: none;
+    width: 200px;
+    background-color: white;
+    color: #086add;
+    padding: 10px;
+    box-sizing: border-box;
+}
+/* For Talent End */
+
+/* Ukarain Help Start */
+
+.support_ukaraine{
+    position: relative;
+    display: flex;
+    text-align: center;
+    border-radius: 8px;
+    width: 1800px;
+    margin-top: 50px;
+    height: 250px;
+    margin-left: 40px;
+    margin-right: 20px;
+    
+    background-color: #f9f9f9;
+}
+
+.support_ukaraine .Ukaraine_image{
+    position: absolute;
+    margin-left: 1550px;
+    width: 200px;
+    height: 200px;
+}
+
+.ukaraine_support{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.freelancers{
+    margin-left: 20px;
+    margin-top: 80px;
+    text-align: left;
+    width: 75%;
+    font-size: 2.5ch;
+}
+
+.learn{
+    position: absolute;
+    margin-top: 150px;
+    border-color: #14a800;
+    border-radius: 8px;
+    background-color: white;
+    color:#108a00;
+    padding: 12px;
+    margin-left: 20px;
+    width: 150px;
+    height: 50px;
+
+}
+
+/* Ukarain Help End */
+
+/* Top Skills Start */
+
+.top_skills{
+    /* position: absolute; */
+    display: flex;
+    margin-top: 50px;
+    margin-left: 30px;
+    width: 1800px;
+    /* background-color: red; */
+    /* margin-left: 20px; */
+    /* width: 1640px; */
+    /* height: auto; */
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column; */
+}
+
+.top_skill{
+    
+    /* margin-left: 50; */
+    color: #108a00;
+    /* margin-top: 10px; */
+}
+
+.skill_top{
+
+  
+    color: #d9d9d9;
+    /* margin-top: 25px; */
+    margin-left: 80px;
+}
+
+.skill_top :hover{
+    color: #108a00;
+}
+
+
+.top_skills .experts{
+    position: absolute;
+    color: #676767;
+    height: 170px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 800px;
+}
+
+.top_skills .experts :hover{
+    color: #108a00;
+}
+
+.top_skills .developer{
+    position: absolute;
+    color: #676767;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 170px;
+    margin-left: 1250px;
+}
+
+.top_skills .developer :hover{
+    color: #108a00;
+}
+/* Top Skills End */
+
+/* Buttom Detail start */
+
+.buttom_detail{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: black;
+    margin-top: 450px;
+    width: 1800px;
+    height: 600px;
+    margin-left: 20px;
+    border-radius: 8px;
+    color: white;
+    
+}
+
+.buttom_detail .buttom_list{
+    position: absolute;
+    display: flex;
+    /* color: white; */
+    list-style: none;
+}
+
+.heading6{
+    position: relative;
+    /* margin-top: 50px; */
+    margin-bottom: 30px;
+    color: #f8fbff;
+    margin-top: 60px;
+    /* margin-left: 50px; */
+    list-style: none;
+}
+
+.buttom_detail li{
+    list-style-type: none;
+    margin-top: 10px;
+}
+
+.heading6 a :hover{
+    text-decoration: underline;
+}
+
+/* Buttom Detail end */
+
+
+/* Social Media Section */
+.social_media {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-left: 20px;
+    /* gap: 15px; */
+    color: white;
+    background-color: black;
+    position: relative;
+    width: 1800px;
+    border-radius: 8px;
+}
+
+.social {
+    width: 300px;
+    margin-left: 180px;
+;
+}
+
+.follow {
+    position: absolute;
+    /* background-color: red; */
+    justify-items: center;
+    /* justify-content: flex-end; */
+    width: 100px;
+    /* background-color: red; */
+}
+
+.fab {
+    /* width: 200px; */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-left: 135px;
+    /* padding-left: -20px; */
+    /* background-color: green; */
+    /* padding-left: 15px; */
+}
+
+.mobile_app {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-left: 700px;
+    /* gap: 15px; */
+    color: white;
+    background-color: black;
+}
+
+.social_media h6, .mobile_app h6 {
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.social_media a, .mobile_app a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.social_media a:hover, .mobile_app a:hover {
+    color: #00aaff;
+}
+
+/* Horizontal Line */
+.footer_line {
+    border: 0;
+    height: 2px;
+    color: white;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: -17px;
+    width: 1800px;
+}
+
+/* Footer Bottom Section */
+.footer_bottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: #aaa;
+    padding: 10px 20px;
+    background-color: black;
+    margin-left: 20px;
+    height: 80px;
+    width: 1800px;
+    border-radius: 8px;
+}
+
+.footer_bottom ul {
+    display: flex;
+    list-style: none;
+    gap: 15px;
+    padding: 0;
+    margin: 0;
+}
+
+.footer_bottom li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
